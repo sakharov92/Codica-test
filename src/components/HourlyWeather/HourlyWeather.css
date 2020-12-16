@@ -1,0 +1,8 @@
+.hourlyWeatherBlock {
+    display: flex;
+    border-left: 2px solid grey;
+    border-right: 2px solid grey;
+    width: fit-content;
+    min-height: 200px;
+    align-items: center;
+}

@@ -1,0 +1,36 @@
+form {
+    width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.input {
+    outline: none;
+    border: 1px solid #fff;
+    margin-right: 10px;
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 5px;
+    min-width: 20vw;
+    background-color: #38536e;
+    color: #fff;
+}
+
+.submit {
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 5px 15px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    transition: all .3s;
+}
+
+.submit:hover {
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+main {
+    padding: 20px;
+}
